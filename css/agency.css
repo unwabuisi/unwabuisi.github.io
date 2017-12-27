@@ -7,11 +7,12 @@
 
 /* ------------------- CUSTOM CSS - UZO NWABUISI ------------------- */
 
-
-
-
-
-
+#gifs-rows img {
+  cursor: pointer;
+}
+#gifs-rows .gif-file {
+  display:none;
+}
 
 /* ------------------- CUSTOM CSS - UZO NWABUISI ------------------- */
 
