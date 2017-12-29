@@ -6,13 +6,18 @@
 
 
 /* ------------------- CUSTOM CSS - UZO NWABUISI ------------------- */
+/**
+ * Progress bars with centered text
+ */
+.progress span {
+    position: absolute;
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    font-size: 125%;
+}
 
-#gifs-rows img {
-  cursor: pointer;
-}
-#gifs-rows .gif-file {
-  display:none;
-}
 
 /* ------------------- CUSTOM CSS - UZO NWABUISI ------------------- */
 
